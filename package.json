@@ -1,0 +1,27 @@
+{
+  "name": "Testing-Practice-JS",
+  "version": "1.0.0",
+  "description": "A Repository to practice TDD with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fegzycole/Testing-Practice-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fegzycole/Testing-Practice-JS/issues"
+  },
+  "homepage": "https://github.com/fegzycole/Testing-Practice-JS#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.9.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "jest": "^25.2.4"
+  }
+}
